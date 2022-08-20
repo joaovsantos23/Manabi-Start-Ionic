@@ -1,0 +1,7 @@
+{
+  "name": "monabi",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
